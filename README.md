@@ -4,6 +4,9 @@ I created this when i was bored, i don't know how to code properly but i had fun
 # Installation
 The installation is simple, you have to download the [last release](https://github.com/ImAWildDogg/Troll/releases/) and extract the .zip file in a new folder then run the .py file.
 
+# Dependencies 
+For now you wil just need Tkinter (`<pip install tk>`).
+
 # Customization 
 For now you can only customize background color and the window name, if you want to change the background color you have to edit the 6th line of code and the 10th line writing a supported color (the default color is purple).
 
