@@ -14,4 +14,4 @@ In order to customize the window name you need to edit the 5th line (by default 
 # P.S.
 i dont know if it runs on linux or mac os because i tested it only on windows, If it runs on other os let me know!
 
-You can modify and use the program how much you want! Have fun.
+You can modify and use the program as much as want! Have fun.
